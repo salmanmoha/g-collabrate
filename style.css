@@ -95,4 +95,27 @@
     width: 300px;
     margin-left: 20px;
 }
-
+.section-image-right{
+    display: flex;
+    margin-left: 100px;
+}
+.text{
+    width: 45%;
+    height: 400px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.text p{
+    padding: 16px;
+}
+.section-image-right img{
+    width: 20%;
+    height: 250px;
+   margin-bottom:40px;
+    margin-right: 80px;
+    border-radius: 50%;
+}
+.text h2{
+    width: 300px;
+    margin-left: 20px;
+}
